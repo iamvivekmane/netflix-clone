@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone (Frontend Only)
+# 🎬 Netflix Clone
 
 A **responsive clone of Netflix’s landing page**, built entirely using **HTML** and **CSS**. This project focuses on recreating the visual structure and layout of the Netflix homepage as closely as possible — no JavaScript, backend, or interactivity involved.
 
@@ -7,7 +7,7 @@ It's a great beginner-friendly project to practice **HTML semantics**, **CSS pos
 ## 🔗 Live Demo
 
 🚀 View the live site hosted on **Vercel**:  
-[https://netflix-clone-iamvivekmane.vercel.app](https://netflix-clone-iamvivekmane.vercel.app)
+[https://netflix-clone-gilt-eta-61.vercel.app/](https://netflix-clone-iamvivekmane.vercel.app)
 
 ## 🛠️ Tech Stack
 
