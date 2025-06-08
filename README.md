@@ -7,7 +7,7 @@ It's a great beginner-friendly project to practice **HTML semantics**, **CSS pos
 ## 🔗 Live Demo
 
 🚀 View the live site hosted on **Vercel**:  
-[https://netflix-clone-gilt-eta-61.vercel.app/](https://netflix-clone-iamvivekmane.vercel.app)
+[https://netflix-clone-gilt-eta-61.vercel.app/](https://netflix-clone-gilt-eta-61.vercel.app/)
 
 ## 🛠️ Tech Stack
 
